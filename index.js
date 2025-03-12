@@ -8,4 +8,4 @@ console.log(square(4))
 
 const add = (a, b) => a + b
 add (3,4)
-console.log(add (2,3))
+
